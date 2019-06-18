@@ -1,10 +1,2 @@
- Volume in drive E has no label.
- Volume Serial Number is 48E9-C5D3
 
- Directory of E:\Desktop\MyPro
-
-18/06/2019  05:48 PM    <DIR>          .
-18/06/2019  05:48 PM    <DIR>          ..
-18/06/2019  05:48 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  281,398,681,600 bytes free
+change 1
